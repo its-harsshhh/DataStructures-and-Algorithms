@@ -204,5 +204,3 @@ if __name__ == "__main__":
 	u, v = 4, 9
 	print('The lca of node {} and {} is node {}'.format(
 		u, v, tree.find_lca(u, v)))
-
-# This code is contributed by Rajat Srivastava
